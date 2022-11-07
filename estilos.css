@@ -1,0 +1,103 @@
+body {
+    background-color: #25476d;
+}
+
+h1 {
+    font-family: 'Bodoni Moda', serif;
+    color: #25476d;
+}
+
+.col-2 h1 {
+    font-family: 'Bodoni Moda', serif;
+    color: #6889b4;
+    font-size: 500%;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+
+h2 {
+    font-family: 'Bodoni Moda', serif;
+    color: #689368;
+    font-size: 30px;
+}
+
+.nav-link {
+    font-family: 'Bodoni Moda', serif;
+    color: #25476d;
+}
+
+h3 {
+    font-family: 'Bodoni Moda', serif;
+    color: #ffffff;
+    font-size: 35px;
+}
+
+
+.h3-fecha {
+    font-family: 'Bodoni Moda', serif;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+h4 {
+    font-family: 'Bodoni Moda', serif;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.titulo-evento {
+    font-family: 'Bodoni Moda', serif;
+    color: #b9859b;
+    font-size: 20px;
+}
+
+.card-title {
+    font-family: 'Bodoni Moda', serif;
+    color: #689368;
+    font-size: 20px;
+}
+
+.card-text {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #689368;
+}
+
+.texto-evento {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #25476d;
+    font-size: 17px;
+}
+
+
+.btn-evento {
+    font-family: 'Bodoni Moda', serif;
+    color: #25476d;
+}
+
+.btn-semana {
+    font-family: 'Bodoni Moda', serif;
+    color: #ffffff;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.modal-miniatura {
+    background-color: #689368;
+}
+
+.mapa {
+    background-color: #6889b4;
+    color: #ffffff;
+}
+
+.mapa p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+}
+
+footer {
+    background: #6889b4;
+    font-family: 'Source Sans Pro', sans-serif;
+}
